@@ -1,0 +1,11 @@
+.bulb {
+  display: flex;
+  flex-direction: row;
+  position: absolute;
+  background: transparent;
+  border: none;
+  height: 50px;
+}
+.bulb > img {
+  filter: invert(100%);
+}

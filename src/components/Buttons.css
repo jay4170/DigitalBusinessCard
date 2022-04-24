@@ -1,0 +1,27 @@
+.buttons > button {
+  height: 34px;
+  width: 115px;
+  left: 283px;
+  top: 468px;
+  border-radius: 6px;
+  padding: 9px, 13px, 9px, 11px;
+  align-content: center;
+}
+.butt_img {
+  height: 16px;
+  margin-right: 4px;
+}
+.github {
+  background-color: #5093e2;
+  color: #ffffff;
+  border: #5093e2;
+  margin-right: 35px;
+  margin-left: 0px;
+}
+.mail {
+  background-color: #ffffff;
+  color: black;
+  border: #ffffff;
+  margin-left: 35px;
+  margin-right: 17px;
+}

@@ -1,0 +1,21 @@
+@font-face {
+  font-family: "Inter";
+  src: url("./images/Inter/Inter-VariableFont_slnt\,wght.ttf")
+}
+
+.card {
+  display: flex;
+  font-family: Inter;
+  flex-direction: column;
+  align-items: center;
+  width: 317px;
+  height: 716px;
+  color: white;
+  background-color: #1a1b21;
+  border-radius: 10px;
+}
+.card > h1,
+h2,
+h3 {
+  margin: 10px;
+}
